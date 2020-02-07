@@ -31,4 +31,4 @@ This will run GetCondorInfo.sh every 10 seconds, meaning every 10 seconds the ou
 
 If everything is working properly, you should see the graph automatically refresh every 5 seconds and it should look something like this (as long as you have condor jobs running):
 
-![alt text](https://github.com/atishelmanch/Monidor/MonidorExample.png "Hey, look at that useful monidor!")
+![alt text](https://github.com/atishelmanch/Monidor/blob/master/MonidorExample.png "Hey, look at that useful monidor!")
