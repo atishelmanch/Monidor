@@ -56,6 +56,7 @@ $dataPoints3 = array(
 <!DOCTYPE HTML>
 <html>
 <head>  
+<link rel="icon" href="https://pbs.twimg.com/profile_images/687234853595549697/cgt7jmsD_400x400.jpg"> 
 <meta http-equiv="refresh" content="<?php echo $sec?>;URL='<?php echo $page?>'">
 <script>
 window.onload = function () {
